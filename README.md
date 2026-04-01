@@ -12,12 +12,9 @@
 
 ## Want to see what YOUR Claude Code actually sends?
 
-LeanMCP shows you what it did in your last session. 
-every request, model call, tool call and, agent harness.
+Check here → [See your Claude Code logs, One URL change. No code required.](https://leanmcp.com/ai-gateway)
 
-→ [See your Claude Code logs, One URL change. No code required.](https://leanmcp.com/ai-gateway)  
-
-→ [Docs](https://docs.leanmcp.com/ai-gateway/claude-code#claude-code)
+→ [Docs](https://docs.leanmcp.com/ai-gateway/claude-code)
 
 ---
 
@@ -398,6 +395,10 @@ Helpful resources for getting deeper into AI-assisted coding:
 ---
 
 <div align="center">
+
+If you have read till here, you definitely deserve some good stuff. Go to app.leanmcp.com and use coupon code LEANMCP26 at checkout to get $99 claude code tokens. You can use them in your claude code for free. You can observe your claude sessions in app.leanmcp.com
+
+More about this in the [Docs](https://docs.leanmcp.com/ai-gateway/claude-code)
 
 **Made with love by the open-source community.**
 
