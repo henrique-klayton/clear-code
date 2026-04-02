@@ -12,10 +12,11 @@
 
 ## Want to see what YOUR Claude Code actually sends?
 
-Check here → [See your Claude Code logs, One URL change. No code required.](https://leanmcp.com/ai-gateway)
+Every request. Every file it reads. Every token it burns.
 
-→ [Docs](https://docs.leanmcp.com/ai-gateway/claude-code)
-
+[See your Claude Code logs →](https://leanmcp.com/ai-gateway?utm_source=clear-code&utm_medium=github&utm_campaign=readme)
+One URL change. No code required.  
+[Docs](https://docs.leanmcp.com/ai-gateway/claude-code)
 ---
 
 **Clear-Code** is a comprehensive, community-driven resource hub dedicated to cataloging, comparing, and promoting the best **open-source AI coding assistants** available today. Whether you're a solo developer, a startup founder, or part of a large engineering team, this repository is your one-stop guide to finding the right AI-powered coding tool — without vendor lock-in, without closed-source limitations, and without the hefty price tags.
