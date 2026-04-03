@@ -20,14 +20,18 @@ One URL change. No code required.
 
 ---
 
+</div>
+
+
+#### Two lines to get full visibility on what's your Claude Code doing.
 
 ```bash
-# Two lines to make Claude Code observable
 export ANTHROPIC_BASE_URL=https://aigateway.leanmcp.com/v1/anthropic
 export ANTHROPIC_API_KEY=your_leanmcp_key
-# Run any Claude Code task — go to app.leanmcp.com to see the log
-# Get your key at app.leanmcp.com
 ```
+#### Run any Claude Code task — go to app.leanmcp.com to see the log
+#### Get your key at app.leanmcp.com
+<div align="center">
 
 **Clear-Code** is a comprehensive, community-driven resource hub dedicated to cataloging, comparing, and promoting the best **open-source AI coding assistants** available today. Whether you're a solo developer, a startup founder, or part of a large engineering team, this repository is your one-stop guide to finding the right AI-powered coding tool — without vendor lock-in, without closed-source limitations, and without the hefty price tags.
 
