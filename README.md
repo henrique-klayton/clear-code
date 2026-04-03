@@ -30,6 +30,9 @@ export ANTHROPIC_BASE_URL=https://aigateway.leanmcp.com/v1/anthropic
 export ANTHROPIC_API_KEY=your_leanmcp_key
 ```
 #### Run any Claude Code task — go [here](https://app.leanmcp.com) to see the logs. Get your key at [here](app.leanmcp.com/billing)
+
+--- 
+
 <div align="center">
 
 **Clear-Code** is a comprehensive, community-driven resource hub dedicated to cataloging, comparing, and promoting the best **open-source AI coding assistants** available today. Whether you're a solo developer, a startup founder, or part of a large engineering team, this repository is your one-stop guide to finding the right AI-powered coding tool — without vendor lock-in, without closed-source limitations, and without the hefty price tags.
